@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1666401888 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"menuesYValidaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666401955 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aerolineas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"menuesYValidaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666401644 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aerolineas.h
+
+1666402014 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\menuesyvalidaciones.h
+
+1666401644 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\destino.h
+
+1666402201 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\tipos.h
+
+1666402014 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aviones.h
+
+1666402014 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aviones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"menuesYValidaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666402014 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\menuesyvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"menuesYValidaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666401955 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"menuesYValidaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666402105 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"destino.h"
+	"aerolineas.h"
+	"menuesYValidaciones.h"
+	"tipos.h"
+	"aviones.h"
+
