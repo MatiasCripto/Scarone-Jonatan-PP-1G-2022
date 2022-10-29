@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1666979211 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+	"fecha.h"
+	"vuelos.h"
+
+1666979211 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aerolineas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+
+1666979211 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aerolineas.h
+
+1666558274 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\menuesyvalidaciones.h
+
+1666979210 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\destino.h
+
+1666979482 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\tipos.h
+
+1666979211 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aviones.h
+	"tipos.h"
+	"aerolineas.h"
+
+1666979296 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\aviones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666552671 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\menuesyvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"menuesYValidaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666979482 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"tipos.h"
+
+1666979210 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"destino.h"
+	"validaciones.h"
+
+1666628687 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\validaciones.h
+
+1666979211 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666739701 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"validaciones.h"
+
+1666739701 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\fecha.h
+
+1666915253 c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\vuelos.h
+	"fecha.h"
+	"aviones.h"
+	"destino.h"
+	"tipos.h"
+	"aerolineas.h"
+
+1666979653 source:c:\users\user\desktop\programasion 1\programacin 1 en c\scarone.jonatan.1p.labo1.1g\vuelos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"vuelos.h"
+	"validaciones.h"
+
+1666979211 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\aerolineas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+
+1666979211 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\aerolineas.h
+
+1666994652 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\validaciones.h
+
+1666979296 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\aviones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666979210 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\destino.h
+
+1666979482 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\tipos.h
+
+1666979211 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\aviones.h
+	"tipos.h"
+	"aerolineas.h"
+
+1666979210 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"destino.h"
+	"validaciones.h"
+
+1666739701 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"validaciones.h"
+
+1666739701 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\fecha.h
+
+1666994964 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+	"fecha.h"
+	"vuelos.h"
+	"informes.h"
+
+1666915253 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\vuelos.h
+	"fecha.h"
+	"aviones.h"
+	"destino.h"
+	"tipos.h"
+	"aerolineas.h"
+
+1666979482 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"tipos.h"
+
+1666996716 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolineas.h"
+	"validaciones.h"
+	"destino.h"
+	"tipos.h"
+	"aviones.h"
+
+1666979653 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\vuelos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"vuelos.h"
+	"validaciones.h"
+
+1666998031 source:c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aviones.h"
+	"informes.h"
+	"destino.h"
+	"validaciones.h"
+	"vuelos.h"
+
+1667002638 c:\users\user\desktop\programasion 1\programacin 1 en c\parciallabo.informes\informes.h
+	"vuelos.h"
+
